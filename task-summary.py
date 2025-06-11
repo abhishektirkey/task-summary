@@ -1,10 +1,10 @@
 # Required libraries
-import pandas as pd
-import matplotlib.pyplot as plt
-from pptx import Presentation
-from pptx.util import Inches
-import os
-from datetime import datetime
+#import pandas as pd
+#import matplotlib.pyplot as plt
+#from pptx import Presentation
+#from pptx.util import Inches
+#import os
+#from datetime import datetime
 import streamlit as st
 
 # Step 1: Load Excel File
